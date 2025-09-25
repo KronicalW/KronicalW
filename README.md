@@ -17,7 +17,8 @@ This repository documents my **hands-on labs, troubleshooting exercises, and sec
 
 ## 📂 Projects
 
-[View Project](#)  
+[View Projects]
+
 
 ---
 
@@ -28,8 +29,8 @@ This repository documents my **hands-on labs, troubleshooting exercises, and sec
 **Summary:**  
 
 
-[View Project ➝](#)  
 
+[View Projects]
 ---
 
 ### 3. Security Labs (TryHackMe / HackTheBox)
@@ -39,7 +40,7 @@ This repository documents my **hands-on labs, troubleshooting exercises, and sec
 **Summary:**  
 Completed beginner and intermediate labs focusing on ethical hacking and defensive security concepts. Wrote short walkthroughs documenting each step.  
 
-[View Project ➝](#)  
+[View Projects] 
 
 ---
 

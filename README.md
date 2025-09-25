@@ -17,7 +17,7 @@ This repository documents my **hands-on labs, troubleshooting exercises, and sec
 
 ## 📂 Projects
 
-[View Project ➝](#)  
+[View Project](#)  
 
 ---
 

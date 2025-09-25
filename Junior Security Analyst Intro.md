@@ -27,4 +27,4 @@ This TryHackMe lab simulates the daily tasks of an entry-level security analyst.
 - Tryhackme.com
 
 ## ✅ Status
-In Progress
+**COMPLETE**

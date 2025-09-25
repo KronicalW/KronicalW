@@ -1,32 +1,59 @@
-# Hello, I'm Kay 
-https://www.linkedin.com/in/kenyota-white-4606641b8/
+# IT & Cybersecurity Portfolio
 
-## Objective
-[Brief Objective - Remove this afterwards]
+Welcome to my GitHub portfolio!  
+I’m building a career in IT support and cybersecurity, starting with a foundation in help desk skills and expanding into security as I study for **CompTIA Security+**.  
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This repository documents my **hands-on labs, troubleshooting exercises, and security practice** so employers can see what I can do beyond my degree.  
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+---
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+## 🖥️ About Me
+- 🎓 Computer Support Technician graduate  
+- 📚 Studying for **CompTIA Security+**  
+- 🔧 Interested in **Help Desk, IT Support, and Security Operations**  
+- 🚀 Hands-on learner documenting real projects  
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+---
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+## 📂 Projects
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+[View Project ➝](#) *(link to repo or folder once uploaded)*  
 
-Every screenshot should have some text explaining what the screenshot is about.
+---
 
-Example below.
+### 2. Networking Basics & Troubleshooting
+**Tools Used:** Wireshark  
+**Skills Learned:**   
 
-*Ref 1: Network Diagram*
+**Summary:**  
+
+
+[View Project ➝](#)  
+
+---
+
+### 3. Security Labs (TryHackMe / HackTheBox)
+**Tools Used:** TryHackMe, HackTheBox  
+**Skills Learned:** Linux basics, privilege escalation, vulnerability scanning, password cracking  
+
+**Summary:**  
+Completed beginner and intermediate labs focusing on ethical hacking and defensive security concepts. Wrote short walkthroughs documenting each step.  
+
+[View Project ➝](#)  
+
+---
+
+## 📸 Screenshots
+I include screenshots and notes inside each project folder for proof of work and walkthroughs. Example:  
+![Sample Screenshot](images/sample.png)  
+
+---
+
+## 📬 Connect With Me
+- [LinkedIn](#) *(https://www.linkedin.com/in/kenyota-white-4606641b8/)*  
+- [Email](#) *kenyotawhite@gmail.com*  
+
+---
+
+### ⚡ Note
+This portfolio is a work-in-progress as I continue learning and building hands-on experience. Stay tuned for updates!

@@ -17,12 +17,12 @@ This repository documents my **hands-on labs, troubleshooting exercises, and sec
 
 ## 📂 Projects
 
-[View Project ➝](#) *(link to repo or folder once uploaded)*  
+[View Project ➝](#)  
 
 ---
 
 ### 2. Networking Basics & Troubleshooting
-**Tools Used:** Wireshark  
+**Tools Used:** 
 **Skills Learned:**   
 
 **Summary:**  
